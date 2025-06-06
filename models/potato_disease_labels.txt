@@ -1,7 +1,0 @@
-
-{
-  "Early Blight": 0,
-  "Late Blight": 1,
-  "Healthy": 2
-}
-
