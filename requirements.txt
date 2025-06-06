@@ -4,4 +4,4 @@ Pillow
 numpy
 pandas
 googletrans==4.0.0-rc1
-deep-translator
+deep-translator==1.11.4
