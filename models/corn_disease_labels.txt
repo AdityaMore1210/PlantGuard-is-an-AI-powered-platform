@@ -1,0 +1,7 @@
+
+{
+  "Common Rust": 0,
+  "Healthy": 1,
+  "Gray Spot": 2,
+  "Northern Blight": 3
+}
